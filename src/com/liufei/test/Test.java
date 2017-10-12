@@ -7,6 +7,7 @@ public class Test {
 	 */
 	public static void main(String[] args) {
            System.out.println("≤‚ ‘11211111123311221221213222211");
+           System.out.println("231");
 	}
 
 }
